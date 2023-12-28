@@ -75,7 +75,7 @@ onet=Onet(url=url)
 # SVP range
 # Education
 # Time pressure等
-## NOTICE : 部分職業魔沒有資訊會出現not found 屬於正常
+## NOTICE : 部分職業沒有特定資訊會出現not found 屬於正常
 onet.get_info()
 ```
 
