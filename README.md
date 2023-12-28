@@ -18,7 +18,6 @@ pip uninstall class_onet
 ## 使用手冊：colab 裡面執行
 https://colab.research.google.com/drive/1ucAH1-PfhlpswbIfmQBXFThbwX6Qm64I?hl=zh-tw#scrollTo=296WFEQKCFbz
 
-### handbook 
 - first step: 這是google開發雲端編寫python的環境，只需要有一個google 帳號可以使用
 - second step : 目前檔案雲端設定可以編輯模式，如果要存到自己電腦點  bar buttom 檔案 -> 在雲端硬碟中存取副本
 - thrid  step : 執行下載套件（一次性）每次執行程按左邊播放鍵-> `from class_onet import Onet`  -> `url= "特定職業的網址貼近來"`（要保留 " " 引號才可以執行） 
