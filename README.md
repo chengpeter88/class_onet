@@ -1,7 +1,7 @@
 # class_onet
 
 ## 安裝方法
-
+vscode 等 IDE 編輯器在終端機執行
 要安裝套件，請運行以下命令：
 ```
 pip install git+https://github.com/chengpeter88/class_onet@v1.0.0
@@ -21,7 +21,7 @@ https://colab.research.google.com/drive/1ucAH1-PfhlpswbIfmQBXFThbwX6Qm64I?hl=zh-
 
 ```python
 #下載自己做標竿計畫套件，只需要下載一次，如果下次無法使用以下指令，再下載一次！
-pip install git+https://github.com/chengpeter88/class_onet@v1.0.0
+!pip install git+https://github.com/chengpeter88/class_onet@v1.0.0
 ```
 
     Collecting git+https://github.com/chengpeter88/class_onet@v1.0.0
