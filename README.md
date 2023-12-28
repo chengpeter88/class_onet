@@ -1,4 +1,4 @@
-# O.Net網站職業類表爬取 class_onet
+# O*Net網站職業類表爬取 class_onet
 
 ## 安裝方法
 vscode 等 IDE 編輯器在終端機執行
