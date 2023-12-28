@@ -1,5 +1,5 @@
 ```python
-#下載自己做標該計畫套件，只需需要下載一次，如果下次執行無法使用以下指令，再下載一次！
+#下載自己做標該計畫套件，只需要下載一次，如果下次無法使用以下指令，再下載一次！
 pip install git+https://github.com/chengpeter88/class_onet@v1.0.0
 ```
 
