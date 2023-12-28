@@ -13,6 +13,10 @@ pip install git+https://github.com/chengpeter88/class_onet@v1.0.0
 ```
 pip uninstall clas_onet
 ```
+------
+
+## 使用手冊：colab 裡面執行
+https://colab.research.google.com/drive/1ucAH1-PfhlpswbIfmQBXFThbwX6Qm64I?hl=zh-tw#scrollTo=296WFEQKCFbz
 
 
 ```python
