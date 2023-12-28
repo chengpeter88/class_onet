@@ -20,7 +20,7 @@ https://colab.research.google.com/drive/1ucAH1-PfhlpswbIfmQBXFThbwX6Qm64I?hl=zh-
 
 - first step: 這是google開發雲端編寫python的環境，只需要有一個google 帳號可以使用
 - second step : 目前檔案雲端設定可以編輯模式，如果要存到自己電腦點  bar buttom 檔案 -> 在雲端硬碟中存取副本
-- thrid  step : 執行下載套件（一次性）每次執行程按左邊播放鍵-> `from class_onet import Onet`  -> `url= "特定職業的網址貼近來"`（要保留 " " 引號才可以執行） 
+- thrid  step : 執行下載套件（一次性）每次執行式，請按左邊播放鍵-> `from class_onet import Onet`  -> `url= "特定職業的網址貼近來"`（要保留 " " 引號才可以執行） 
 - fourth  step : 開始列印出excel表格需要資訊 `onet.get_info()` , `onet.work_knowledge()`, `onet.work_skill()`
 
 
