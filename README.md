@@ -4,7 +4,7 @@
 vscode 等 IDE 編輯器在終端機執行
 要安裝套件，請運行以下命令：
 ```
-pip install git+https://github.com/chengpeter88/class_onet@v1.0.0
+pip install git+https://github.com/chengpeter88/class_onet@v1.0.1
 ```
 
 ## 解除安裝方法
