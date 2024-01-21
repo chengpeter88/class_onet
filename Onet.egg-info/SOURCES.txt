@@ -1,3 +1,5 @@
+LICENSE
+README.md
 setup.py
 Onet.egg-info/PKG-INFO
 Onet.egg-info/SOURCES.txt

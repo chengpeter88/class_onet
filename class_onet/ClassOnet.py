@@ -29,7 +29,7 @@ class Onet:
                     'F': pd.DataFrame(index=['Law and Government', 'Public Safety and Security', 'Psychology', 'Sociology and Anthropology'], 
                       columns=['Law & Social Sciences'], 
                       data=0),
-                     'G': pd.DataFrame(index=['Administration and Management', 'Administrative', 'Customer and Personal Service', 'Economics and Accounting', 'Personnel and Human Resources', 'Sales and Marketing'], 
+                    'G': pd.DataFrame(index=['Administration and Management', 'Administrative', 'Customer and Personal Service', 'Economics and Accounting', 'Personnel and Human Resources', 'Sales and Marketing'], 
                       columns=['Business and Management'], 
                       data=0),
                     'H': pd.DataFrame(index=['Biology', 'Chemistry', 'Geography', 'Mathematics', 'Physics'], 
@@ -38,7 +38,7 @@ class Onet:
                     'I': pd.DataFrame(index=['Building and Construction', 'Computers and Electronics', 'Design', 'Engineering and Technology', 'Mechanical', 'Communications and Media', 'Telecommunications', 'Food Production', 'Production and Processing', 'Transportation'], 
                       columns=['Engineering and IT'], 
                       data=0),
-                    'F': pd.DataFrame(index=['Medicine and Dentistry', 'Therapy and Counseling'], 
+                    'J': pd.DataFrame(index=['Medicine and Dentistry', 'Therapy and Counseling'], 
                       columns=['Health Services'], 
                       data=0)}  
         # 將您的 dfs_2 字典放在這裡
